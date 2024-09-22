@@ -12,4 +12,5 @@ History:
 3. History of CRISPR-Cas from Encounter with a Mysterious Repeated Sequence to Genome Editing Technology review paper by Yoshizumi Ishino(first person to ever encounter the sequence)
 4. Evolution and classification of the CRISPR–Cas systems  by makarova (help in classification)
 5. The discovery of CRISPR in archaea and bacteria  by Francisco J. M. Mojica (father of crispr ) and Francisco Rodriguez-Valera3
+6. CRISPR Provides Acquired Resistance Against Viruses in Prokaryotes by Barrangou (This paper will prove that crispr act as immunity to bacteria)
 
